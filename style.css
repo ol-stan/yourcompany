@@ -47,8 +47,8 @@ article {
 nav {
     color: white;
     background-color: black;
-    margin: 10px;
     width: 100%;
+    margin: 5px 5px 0 10px;
 }
 
 nav ul {
@@ -107,10 +107,6 @@ footer {
 .nav {
     padding: 20px 20px 0 20px;
     max-width: 150px;
-}
-
-.navigator {
-    margin: 5px 5px 0 10px;
 }
 
 nav span {
