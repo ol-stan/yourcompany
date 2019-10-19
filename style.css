@@ -112,3 +112,7 @@ footer {
 nav span {
     display: block;
 }
+
+.line-hr {
+    width: 85px;
+}
